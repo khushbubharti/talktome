@@ -1,0 +1,16 @@
+{
+  "type":"module",
+  "name": "zeal-audioroom",
+  "version": "1.0.0",
+  "description": "Zeal Community Audio Room",
+  "main": "index.js",
+  "dependencies": {
+    "agora-rtc-sdk": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikas Thakur",
+  "license": "ISC"
+}
